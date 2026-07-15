@@ -1,4 +1,0 @@
-Production branch: main
-Build command: npm install && hexo generate
-Build output directory: public
-Node.js version: 18
