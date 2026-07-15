@@ -7,7 +7,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 url: https://caogenfunan.me
 permalink: :title/
-theme: landscape
+theme: xiaozi-theme
 source_dir: source
 public_dir: public
 index_generator:
