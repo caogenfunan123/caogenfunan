@@ -1,0 +1,28 @@
+title: 小子博客
+subtitle: ''
+description: 一个关于生活、随笔与回忆的个人博客
+keywords:
+author: 小子
+language: zh-CN
+timezone: Asia/Shanghai
+url: https://caogenfunan.me
+permalink: :title/
+theme: landscape
+source_dir: source
+public_dir: public
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+archive_generator:
+  per_page: 20
+  yearly: true
+  monthly: true
+markdown:
+  render:
+    html: true
+    breaks: true
+highlight:
+  enable: true
+sitemap:
+  path: sitemap.xml
